@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a prospective CS Ph.D. student, currently a research assistant at Nankai University. I love all kinds of system problems. 
+
+Here's my [homepage](https://tr0py.github.io/).
+
+Feel free to email me!
