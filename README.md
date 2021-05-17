@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a prospective CS Ph.D. student, currently a research assistant at Nankai University. I love all kinds of system problems. 
+I'm going to be a PhD student in Computer Science at Rice University. :) I love all kinds of system problems. 
 
 Here's my [homepage](https://tr0py.github.io/).
 
