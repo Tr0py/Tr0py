@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 <!--
 **Tr0py/Tr0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD student in Computer Science at Rice University. :) I love all kinds of system problems. 
+- I'm currently a PhD student at Rice University Computer Science Department. 
+- :closed_book: My research is about Operating System. 
+- :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
+- Know more about me: my [homepage](https://tr0py.github.io/).
 
-Here's my [homepage](https://tr0py.github.io/).
-
-Feel free to email me!
+Feel free to contact me!
