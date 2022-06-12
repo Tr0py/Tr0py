@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
 - Know more about me: my [homepage](https://tr0py.github.io/).
 
-Feel free to contact me!
+Feel free to look around!
