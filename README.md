@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - :closed_book: My research is about Operating System. 
 - :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
 - Know more about me: my [homepage](https://tr0py.github.io/).
+- My [blog](https://tr0py.github.io/year-archive/).
 
 Feel free to look around!
