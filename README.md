@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - I'm currently a PhD student at Rice University Computer Science Department. 
 - :closed_book: My research is about Operating System. 
 - :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
-- Know more about me: my [homepage](https://tr0py.github.io/).
+- Know more about me: my [homepage](https://tr0py.github.io/about).
 - My [blog](https://tr0py.github.io/year-archive/).
+- [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ). <3
 
 Feel free to look around!
