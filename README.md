@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently a PhD student at Rice University Computer Science Department. 
-- :closed_book: My research is about Operating System. 
+- :closed_book: I am particularly interested in Operating Systems, Computer Architecture, Virtualization, and Parallel Processing. 
 - :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
 - Know more about me: my [homepage](https://tr0py.github.io/about).
 - My [blog](https://tr0py.github.io/year-archive/).
