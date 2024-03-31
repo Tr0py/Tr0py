@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently a PhD student at Rice University Computer Science Department. 
+- I an a PhD student at Rice University Computer Science Department. 
 - :closed_book: I am particularly interested in Operating Systems and Virtualization.
 - :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
 - Know more about me: my [homepage](https://tr0py.github.io/about).
