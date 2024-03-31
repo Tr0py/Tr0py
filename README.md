@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I am a PhD student at Rice University Computer Science Department. 
 - :closed_book: I am particularly interested in Operating Systems and Virtualization.
-- :man_student: Before that, I earned my bachelor's degree from Nankai University, China.
+- :man_student: I did my undergrad at Nankai University, China.
 - Know more about me: my [homepage](https://tr0py.github.io/about).
 - My [blog](https://tr0py.github.io/year-archive/).
 - [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ). <3
